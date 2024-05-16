@@ -1,0 +1,145 @@
+{
+    "_CountOnlineNow": {
+        "EN": "Now playing",
+        "RU": "Сейчас играет",
+        "BG": "Сега играят"
+    },
+    "_Loading": {
+        "EN": "Loading",
+        "RU": "Загружается",
+        "DE": "Wird geladen",
+        "UA": "Завантажується",
+        "BG": "Зарежда"
+    },
+    "_CurrentOnline": {
+        "EN": "Current online",
+        "RU": "Текущий онлайн",
+        "DE": "Aktuell online",
+        "UA": "Поточний онлайн",
+        "BG": "Онлайн сега"
+    },
+    "_CurrentMapPlay": {
+        "EN": "A map is being played now",
+        "RU": "Сейчас играется карта",
+        "DE": "Jetzt wird eine Map gespielt",
+        "UA": "Зараз грає картка",
+        "BG": "Сега се играе"
+    },
+    "_CurrentPlayers": {
+        "EN": "Players",
+        "RU": "Игроки",
+        "DE": "Spieler",
+        "UA": "Гравці",
+        "BG": "Играчи"
+    },
+    "_topPlace": {
+        "EN": "Place",
+        "RU": "Место",
+        "DE": "Ort",
+        "UA": "Місце",
+        "BG": "Място"
+    },
+    "_topValue": {
+        "EN": "points",
+        "RU": "очков",
+        "DE": "points",
+        "UA": "points",
+        "BG": "опит"
+    },
+    "_topTen": {
+        "EN": "Top 10",
+        "RU": "Топ 10",
+        "DE": "Top 10",
+        "UA": "Топ 10",
+        "BG": "Топ 10"
+    },
+    "_Rating_Three": {
+        "EN": "Rating of the best players",
+        "RU": "Рейтинг лучших игроков",
+        "BG": "Класация на най-добрите играчи"
+    },
+    "_Rating_Server": {
+        "EN": "Server",
+        "RU": "Сервер",
+        "BG": "Сървър"
+    },
+    "_Rating_Monitoring": {
+        "EN": "Our server",
+        "RU": "Наши сервера",
+        "BG": "Нашите сървъри"
+    },
+    "_Monitoring_Players": {
+        "EN": "Players",
+        "RU": "Игроки",
+        "BG": "Играчи"
+    },
+    "_Monitoring_Players_Two": {
+        "EN": "Players",
+        "RU": "Игроков",
+        "BG": "Играчи"
+    },
+    "_Rating_Place": {
+        "EN": "place",
+        "RU": "место",
+        "BG": "място в класацията"
+    },
+    "_Player": {
+        "EN": "Player",
+        "RU": "Игрок",
+        "BG": "Играч"
+    },
+    "_Kills": {
+        "EN": "Kills",
+        "RU": "Убийства",
+        "BG": "Убийства"
+    },
+    "_Death": {
+        "EN": "Deaths",
+        "RU": "Смерти",
+        "BG": "Умирания"
+    },
+    "_Assists": {
+        "EN": "Assists",
+        "RU": "Помощи",
+        "BG": "Асистенции"
+    },
+    "_KD": {
+        "EN": "KD",
+        "RU": "К/Д",
+        "BG": "KD"
+    },
+    "_Headshots": {
+        "EN": "Headshots",
+        "RU": "Хедшотов",
+        "BG": "Глави"
+    },
+    "_Level": {
+        "EN": "Level",
+        "RU": "Уровень"
+    },
+    "_Play_time": {
+        "EN": "Playtime",
+        "RU": "Время игры",
+        "BG": "Време онлайн"
+    },
+    "_Connect": {
+        "EN": "Connect",
+        "RU": "Присоединиться",
+        "BG": "Присъедини се"
+    },
+    "_TakeIp": {
+        "EN": "Copy IP",
+        "RU": "Скопировать IP",
+        "BG": "Копирай IP"
+    },
+    "_Detailed": {
+        "EN": "Detailed statistics",
+        "RU": "Подробная статистика",
+        "BG": "Подробна статистика"
+    },
+    "_Hide": {
+        "EN": "Hide statistics",
+        "RU": "Скрыть статистику",
+        "BG": "Скрий статистиката"
+    }
+}
